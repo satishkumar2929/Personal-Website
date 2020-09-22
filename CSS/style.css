@@ -1,0 +1,176 @@
+body {
+    margin:0px;
+    text-align: center;
+}
+.top-container {
+    position: relative;
+    padding-top: 10%;
+   background-color: #8fc0a9; 
+   background-color: #62d2a2; 
+   /* background-color: #E4F9F5; */
+}
+.top-container h1 {
+    font-family: 'Playball', cursive;
+    font-family: 'Tangerine', cursive;
+    font-size: 600%;
+    margin-top: 0;
+    color: #48466d;
+
+}
+.top-container p{
+   
+font-family: 'Ubuntu', sans-serif;
+font-size: 200%;
+font-weight: bold;
+color: #48466d;
+
+}
+.middle-container {
+    margin-top: 3%;
+}
+.bottom-container h3{
+    color: #071a52;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 140%;
+}
+
+.middle-container h1 {
+  color: #62d2a2;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 250%;
+}
+.middle-container p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
+}
+.bottom-container p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 120%;
+}
+.profile-class {
+    width: 16%;
+    border-radius: 50%;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+.top-cloud {
+    position: absolute;
+    right: 19%;
+    top: 13%;
+}
+.Dev {
+    text-decoration: underline;
+}
+.horizontal-line {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: grey;
+    /* padding-top: 20px;
+    margin-bottom: 10px; */
+}
+.footer {
+    padding-top: 2px;
+    background-color: #1b262c;
+    color: white;
+    font-size: 120%;
+    margin-bottom: 0;
+}
+.footer p{
+   margin-bottom: 0;
+}
+.contact-para {
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 120%;
+}
+.heading-class {
+    color: #11999B;
+}
+.skill-div-first {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    text-align: left;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+.skill-div-second {
+    width: 50%;
+    text-align: left;
+    margin-bottom: 30px; 
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.programming-class {
+    margin-left: 20px;
+    width: 40%;
+    border-radius: 10%;
+    float: right;
+    
+}
+.developer-class {
+    margin-right: 20px;
+    border-radius: 10%;
+    float: left;
+}
+.btn {
+    background-color:#6EF3D6 ;
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: 100;
+    padding: 10px;
+    background-image: -webkit-linear-gradient(top, #6EF3D6, #11999E);
+    background-image: -moz-linear-gradient(top, #6EF3D6, #11999E);
+    background-image: -ms-linear-gradient(top, #6EF3D6, #11999E);
+    background-image: -o-linear-gradient(top, #6EF3D6, #11999E);
+    background-image: linear-gradient(to bottom, #6EF3D6, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -webkit-box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #000000 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+    .btn:hover {
+        border: groove #000000 2px;
+         background: #30E3BC;
+         border-radius : 23 px;
+         background-image: -webkit-linear-gradient(top, #30E3BC, #2BC4AD);
+         background-image: -moz-linear-gradient(top, #30E3BC, #2BC4AD);
+         background-image: -ms-linear-gradient(top, #30E3BC, #2BC4AD);
+         background-image: -o-linear-gradient(top, #30E3BC, #2BC4AD);
+         background-image: linear-gradient(to bottom, #30E3BC, #2BC4AD);
+         -webkit-border-radius: 23px;
+         -moz-border-radius: 23px;
+         text-decoration: none;
+    }
+    .footer-link{
+        
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    a {
+        font-size: 22px;
+        color: #11999E;
+        text-decoration: none;
+        
+    }
+    a:hover{
+        color: #EAF6F6;
+    }
+    .footer-dev{
+        font-family: 'Ubuntu', sans-serif;
+        padding-bottom: 12px;
+    }
